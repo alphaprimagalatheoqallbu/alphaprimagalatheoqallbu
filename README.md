@@ -5,7 +5,7 @@ Hai, saya Alpha Prima Galatheo Qallbu, atau juga dikenal sebagai 1337rokudenashi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Hexo](https://img.shields.io/badge/Hexo-%23222222.svg?style=for-the-badge&logo=hexo&logoColor=#0E83CD) ![Hugo](https://img.shields.io/badge/Hugo-%23222222.svg?style=for-the-badge&logo=hugo&logoColor=#FF4088) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # 🚩 Badge:
-- [OhSINT - TryHackMe](https://tryhackme.com/1337rokudenashi/badges/ohsint?trk=public_profile_see-credential)
+- [OhSINT (2023) - TryHackMe)](https://tryhackme.com/1337rokudenashi/badges/ohsint?trk=public_profile_see-credential)
 
 Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
 
@@ -16,6 +16,9 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 - [NSE 2 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251440&code=6sUcCOGlU7&qrcode=1)
 - [NSE 1 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=yBMFqufRvR&qrcode=1)
 
+# 🚩 Certificate of Appreciation:
+- [Sertifikat apresiasi atas penemuan celah keamanan (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/alphaprimagalatheoqallbu/sertifikatapresiasi)
+
 # 🚩 Certificate:
 - [Fundamental Python untuk Pengembangan Software (2020) - Progate](https://progate.com/course_certificate/bd11ce39qkoepo)
 
@@ -23,8 +26,8 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 - [Anxiety - Proyek untuk Pengungkapan Kerentanan Aplikasi Web dengan Pendekatan Black Box](https://github.com/alphaprimagalatheoqallbu/anxiety)
 
 # 📌 Activity Experience
-- [Pernah menjadi pembicara dalam kegiatan kampus tentang Forensics Investigator](https://docs.google.com/presentation/d/1oDayEXd6U5TYVxq7clyzdD7o-v_TewrD0FaWK5cJrZc/edit?usp=sharing)
-- [Pernah menjadi pembicara dalam kegiatan kampus tentang Information Security Awareness](https://docs.google.com/presentation/d/14p0r85__rNVIAhoYvFFj4bmkURKfQ5Egu_gLx5kULNs/edit?usp=sharing)
+- [Pernah menjadi pembicara dalam kampus, saya membahas tentang Forensics Investigator](https://docs.google.com/presentation/d/1oDayEXd6U5TYVxq7clyzdD7o-v_TewrD0FaWK5cJrZc/edit?usp=sharing)
+- [Pernah menjadi pembicara dalam kampus, saya membahas tentang Information Security Awareness](https://docs.google.com/presentation/d/14p0r85__rNVIAhoYvFFj4bmkURKfQ5Egu_gLx5kULNs/edit?usp=sharing)
 
 # 🚩 Achievement
 - [Studi Independen - IT Network & Cyber Security Specialist](https://github.com/alphaprimagalatheoqallbu/studiindependen)
