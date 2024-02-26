@@ -13,8 +13,14 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 - [Certified Purple Team Analyst V2 [CPTA V2] (2023) - Cyberwarfare Labs](https://app.kajabi.com/certificates/96a732d2)
 - [Certified Cyber Security Analyst [C3SA] (2023) - Cyberwarfare Labs](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
 - [NSE 3 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251441&code=ZxqxDLtRrK&qrcode=1)
+![NSE 3 Network Security Associate](https://github.com/alphaprimagalatheoqallbu/alphaprimagalatheoqallbu/assets/161004785/8b8ced20-a135-4adf-9170-32824213ad76)
+
 - [NSE 2 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251440&code=6sUcCOGlU7&qrcode=1)
+![NSE 2 Network Security Associate](https://github.com/alphaprimagalatheoqallbu/alphaprimagalatheoqallbu/assets/161004785/5e0bebfa-4b51-4e7a-be7c-1ffd1e4c28c0)
+
 - [NSE 1 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=yBMFqufRvR&qrcode=1)
+![NSE 1 Network Security Associate](https://github.com/alphaprimagalatheoqallbu/alphaprimagalatheoqallbu/assets/161004785/5dc1eeb9-aff7-4d9b-9166-df9b5733ce19)
+
 
 # 🚩 Certificate:
 - [Fundamental Python untuk Pengembangan Software (2020) - Progate](https://progate.com/course_certificate/bd11ce39qkoepo)
