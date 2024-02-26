@@ -15,6 +15,8 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 - [NSE 3 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251441&code=ZxqxDLtRrK&qrcode=1)
 - [NSE 2 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251440&code=6sUcCOGlU7&qrcode=1)
 - [NSE 1 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=yBMFqufRvR&qrcode=1)
+
+# 🚩 Certificate:
 - [Fundamental Python untuk Pengembangan Software (2020) - Progate](https://progate.com/course_certificate/bd11ce39qkoepo)
 
 # 💼 Project
