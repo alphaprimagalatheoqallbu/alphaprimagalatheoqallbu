@@ -19,15 +19,16 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 # 🚩 Certificate of Appreciation:
 - [Sertifikat apresiasi atas penemuan celah keamanan (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/alphaprimagalatheoqallbu/sertifikatapresiasi)
 
-# 🚩 Certificate:
+# 🚩 Certificate of Completion:
+- [Microsoft Security, Compliance, and Identity Fundamentals (2024) - Talenta AI](https://github.com/alphaprimagalatheoqallbu/microsoftsecuritycomplianceandidentityfundamentals)
 - [Fundamental Python untuk Pengembangan Software (2020) - Progate](https://progate.com/course_certificate/bd11ce39qkoepo)
 
-# 💼 Project
+# 💼 Project:
 - [Anxiety - Proyek untuk Pengungkapan Kerentanan Aplikasi Web dengan Pendekatan Black Box](https://github.com/alphaprimagalatheoqallbu/anxiety)
 
-# 📌 Activity Experience
+# 📌 Activity Experience:
 - [Pernah menjadi pembicara dalam kampus, saya membahas tentang Forensics Investigator](https://docs.google.com/presentation/d/1oDayEXd6U5TYVxq7clyzdD7o-v_TewrD0FaWK5cJrZc/edit?usp=sharing)
 - [Pernah menjadi pembicara dalam kampus, saya membahas tentang Information Security Awareness](https://docs.google.com/presentation/d/14p0r85__rNVIAhoYvFFj4bmkURKfQ5Egu_gLx5kULNs/edit?usp=sharing)
 
-# 🚩 Achievement
+# 🚩 Achievement:
 - [Studi Independen - IT Network & Cyber Security Specialist](https://github.com/alphaprimagalatheoqallbu/studiindependen)
