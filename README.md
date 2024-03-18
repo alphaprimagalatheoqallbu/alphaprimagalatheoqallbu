@@ -10,6 +10,7 @@ Hai, saya Alpha Prima Galatheo Qallbu, atau juga dikenal sebagai 1337rokudenashi
 Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
 
 # 🚩 Certification:
+- [CSI Linux Certified Investigator (CSIL-CI) (2024) - CSI Linux](https://csilinux.com/academy/badges/badge.php?hash=361e1c15a5f74873d6783089227904b768120b81)
 - [Certified Purple Team Analyst V2 [CPTA V2] (2023) - Cyberwarfare Labs](https://app.kajabi.com/certificates/96a732d2)
 - [Certified Cyber Security Analyst [C3SA] (2023) - Cyberwarfare Labs](https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0)
 - [NSE 3 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251441&code=ZxqxDLtRrK&qrcode=1)
@@ -17,7 +18,9 @@ Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keter
 - [NSE 1 Network Security Associate (2023) - Fortinet](https://training.fortinet.com/mod/customcert/verify_certificate.php?contextid=251439&code=yBMFqufRvR&qrcode=1)
 
 # 🚩 Certificate of Appreciation:
-- [Sertifikat apresiasi atas penemuan celah keamanan (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/alphaprimagalatheoqallbu/sertifikatapresiasi)
+- [Kerentanan pada keamanan aplikasi web (2024) - PT. WaGoMu KREATIF ASIA](https://github.com/1337rokudenashi/certificateofappreciation/blob/main/PT.%20WaGoMu%20KREATIF%20ASIA.pdf)
+
+PT. WaGoMu KREATIF ASIA memberikan apresiasi kepada saya karena telah menemukan dan melaporkan kerentanan pada keamanan aplikasi web milik mereka.
 
 # 🚩 Certificate of Completion:
 - [Microsoft Security, Compliance, and Identity Fundamentals (2024) - Talenta AI](https://github.com/alphaprimagalatheoqallbu/microsoftsecuritycomplianceandidentityfundamentals)
